@@ -229,8 +229,8 @@
     float: right;
     position: absolute;
     margin-left: 50%;
-    margin-top: 1270px;
-    width: 500px;
+    margin-top: 1200px;
+    width: 700px;
 }
 
 
@@ -256,10 +256,12 @@ span{
 }
 
 #ig{
-    margin-top: 10%;
-    margin-left: 85%;
+    margin-left: 70%;
+    margin-top: -190;
     font-weight:bold;
     font-size: large;   
     font-style: oblique;
+    padding: auto;
+    float: right;
 }
 
