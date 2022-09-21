@@ -1,9 +1,7 @@
 #div1{
         text-align: center;
-        font-family: 'Times New Roman', Times, serif;  
         background-color: darkgrey; 
-        color: white; 
-        
+        color: white;     
  }
  
  
@@ -13,11 +11,10 @@
     color: aliceblue;
     margin-left: 100px ;
     margin-right: 10px;
-    padding: auto;
-    
-    
+    padding: auto; 
  }
  
+
  .nav{
      background-color: black;
      padding: auto;
@@ -27,34 +24,34 @@
     align-items: center;
  }
 
+
 #h4{
     font-size: large;
     color: rgb(1, 19, 19);
     margin-left: 10px;
-
 }
+
 
 #p1{
     margin-left: 20px;
     text-indent: 20px;
     font-size: larger;
-
 }
+
+
 .p2{
     font-size: 20px;
     font-weight: bolder;
     margin-top: 20px;
-    padding-top: 30px;
-    
-   
-  
+    padding-top: 30px;  
 }
+
 
 .p3{
     text-indent: 100px;
     font-size: large;
-    
 }
+
 
  .fav {
     color: rgb(18, 18, 72);
@@ -65,25 +62,26 @@
 }
 
 
-
 .iframe1{
     margin-left: 5%;
     margin-top: auto;
-
 }
 
 
 #divimg{
     float: inline-end;
-
 }
+
+
 .form{
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(19, 20, 19);
 }
+
+
 .sug{
     font-size: large;
 }
+
 
 .list{
     clear: right;
@@ -96,23 +94,23 @@
     margin-bottom: 15px;
     width: 40%;
     margin-left: 19px;
-
 }
+
 
 .table{
     background-color: rgb(238, 232, 236);
    color: rgb(7, 13, 18);
-width: 40%;
+   width: 40%;
    border: 2px;
    border-color: rgb(80, 55, 55);
    height: 60px;
 }
 
+
 .th{
     color: rgb(246, 242, 242);
     font-size: larger;
     background-color: rgb(31, 29, 29);
-    
 }
 
 
@@ -124,12 +122,14 @@ width: 40%;
    margin-bottom: 10%;
 }
 
+
 .img2{
     border-radius: 10px;
     margin-left: 20px;
    float: left;
     margin-top: 7%;
 }
+
 
 .abay{
     float: right;
@@ -138,6 +138,7 @@ width: 40%;
     font-size: xx-large;
     font-style: italic;
 }
+
 
 #background{
    
@@ -148,21 +149,20 @@ width: 40%;
     margin-top: 10px;
 }
 
+
 .headline{
     margin-left: 19px;
 }
 
 
-
 .tophalf{
-    width: fit-content; 
-      
+    width: fit-content;     
 }
+
 
 .includetitle{
     float: right;
 }
-
 
 
 .pic{
@@ -178,9 +178,9 @@ width: 40%;
 
 .gif{
     width: 50%;
-    height: auto;
-    
+    height: auto; 
 }
+
 
 .thanks{
     font-size: xx-large;
@@ -190,21 +190,18 @@ width: 40%;
 
 .music{
     font-size: large;
-
- 
 }
 
 
 .movie{
     font-size: large;
-
-  
 }
+
 
 .sport{
     font-size: large;
-
 }
+
 
 .musicleft{
     width: 40%;
@@ -213,36 +210,44 @@ width: 40%;
     margin-left: -50px;
 }
 
+
 .iframeright{
     width: 50%;
     margin-top: 90px;
     position: absolute;
     margin-top: 10px;
 }
+
+
 .secondsection{
     align-items: center;
-justify-items: center;
+    justify-items: center;
 }
+
+
 .thanksgif{
-float: right;
-position: absolute;
-margin-left: 50%;
-margin-top: 1270px;
-width: 500px;
+    float: right;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 1270px;
+    width: 500px;
 }
+
 
 .box{
     width:40%;
     height: auto; 
     margin-top: 70px;
     display: flex;
-    margin-left: 30px;
-    
+    margin-left: 30px;  
 }
+
+
 span{
     color: red;
     font-size: 130%;
 }
+
 
 .index{
     margin-left: 10%;
